@@ -1,6 +1,4 @@
 <div align="center">
-<br/>
-
 
 # Ade Muchlisidin
 
@@ -14,7 +12,6 @@
 [![](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@ademuchl17)
 [![](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amdevstudio05@gmail.com)
 
-<br/>
 <br/>
 
 ##
@@ -80,21 +77,14 @@ I'm a student at **Universitas Komputer Indonesia (UNIKOM)** focused on building
 
 <br/>
 <div align="center"><sub>S T A T S</sub></div>
-<br/>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amdev05&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdev05&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&langs_count=6&count_private=true" />
-
-</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=amdev05&theme=default&hide_border=true&stroke=eeeeee&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&currStreakNum=000000&sideNums=000000&dates=aaaaaa&background=ffffff" />
+![](https://github-readme-stats.vercel.app/api?username=amdev05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amdev05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amdev05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -112,7 +102,6 @@ I'm a student at **Universitas Komputer Indonesia (UNIKOM)** focused on building
 
 <sub>Designed with intention &nbsp;·&nbsp; Built with care.</sub>
 
-<br/>
 <br/>
 
 </div>
