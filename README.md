@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@ademuchl17)
 [![](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amdevstudio05@gmail.com)
 
-<br/>
 
 ##
 
@@ -91,7 +90,6 @@ I'm a student at **Universitas Komputer Indonesia (UNIKOM)** focused on building
 
 ##
 
-<br/>
 
 <div align="center">
 
@@ -100,6 +98,5 @@ I'm a student at **Universitas Komputer Indonesia (UNIKOM)** focused on building
 
 <sub>Designed with intention &nbsp;·&nbsp; Built with care.</sub>
 
-<br/>
 
 </div>
