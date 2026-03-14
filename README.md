@@ -80,9 +80,9 @@ I'm a student at **Universitas Komputer Indonesia (UNIKOM)** focused on building
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=amdev05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=amdev05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amdev05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amdev05&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=amdev05&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amdev05&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
